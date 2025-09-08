@@ -1,4 +1,4 @@
-# Projects - Data SCience
+# Projects - Data Science
 The Projects comprises of 
  1- Iris data classification
  2- Titanic Survival Prediction
